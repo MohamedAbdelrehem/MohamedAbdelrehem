@@ -126,7 +126,7 @@
   <img src="https://streak-stats.demolab.com?user=MohamedAbdelrehem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h2 align="left">✍️ Quote I admire</h2>
+<h2 align="left">✍️ Quotes I admire</h2>
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </div>
