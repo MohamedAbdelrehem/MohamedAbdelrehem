@@ -1,13 +1,17 @@
+<div align="center">
+	<img src = "https://github.com/MohamedAbdelrehem/MohamedAbdelrehem/assets/92957503/30f9ffb4-99b0-4231-833d-6f316506e043" > 
+</div>
+
+<p align="right">✨ Visitors: <br>   <img src="https://komarev.com/ghpvc/?username=MohamedAbdelrehem" alt="MohamedAbdelrehem" /> </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<img width="30%" align="right" alt="Github" src="https://github.com/MohamedAbdelrehem/MohamedAbdelrehem/assets/92957503/03287c6b-ed7e-4455-945e-326b68a69b16" />
 
 
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<p align="left">👋 Hey there! I'm Mohamed Abdelrehem Ali, a passionate Computer Engineering student based in Giza, Egypt 🇪🇬. I thrive at the intersection of technology and innovation, constantly seeking new challenges to tackle and skills to master.
+### Hey there! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
+I'm Mohamed Abdelrehem Ali, a passionate Computer Engineering student who is passionate about Embedded Software.
 
 🎓 Education:
 - Currently studying Computer Engineering at Minya University with an excellent academic record.
@@ -41,7 +45,7 @@
 
 ###
 
-<h2 align="left">📞 Connect with me</h2>
+<h2 align="left">Connects and profiles</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-abdelrehem/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -123,9 +127,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=MohamedAbdelrehem&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedAbdelrehem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MohamedAbdelrehem&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3"  />
 </div>
 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="left">✍️ Quotes I admire</h2>
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
