@@ -7,7 +7,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<img width="30%" align="right" alt="Github" src="https://github.com/MohamedAbdelrehem/MohamedAbdelrehem/assets/92957503/03287c6b-ed7e-4455-945e-326b68a69b16" />
+<img width="30%" align="right" alt="Github" src="./images/codeing.gif" />
 
 
 ### Hey there! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
