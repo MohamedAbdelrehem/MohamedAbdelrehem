@@ -138,7 +138,57 @@ I'm Mohamed Abdelrehem Ali, a passionate Computer Engineering student who is pas
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </div>
 
+<!---
+<h2 align="left">🚀 Projects</h2>
 
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MohamedAbdelrehem/project1">
+        <img src="https://via.placeholder.com/150" alt="Project 1" />
+      </a>
+      <br />
+      <a href="https://github.com/MohamedAbdelrehem/project1">Project 1</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MohamedAbdelrehem/project2">
+        <img src="https://via.placeholder.com/150" alt="Project 2" />
+      </a>
+      <br />
+      <a href="https://github.com/MohamedAbdelrehem/project2">Project 2</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MohamedAbdelrehem/project3">
+        <img src="https://via.placeholder.com/150" alt="Project 3" />
+      </a>
+      <br />
+      <a href="https://github.com/MohamedAbdelrehem/project3">Project 3</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MohamedAbdelrehem/project4">
+        <img src="https://via.placeholder.com/150" alt="Project 4" />
+      </a>
+      <br />
+      <a href="https://github.com/MohamedAbdelrehem/project4">Project 4</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MohamedAbdelrehem/project5">
+        <img src="https://via.placeholder.com/150" alt="Project 5" />
+      </a>
+      <br />
+      <a href="https://github.com/MohamedAbdelrehem/project5">Project 5</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MohamedAbdelrehem/project6">
+        <img src="https://via.placeholder.com/150" alt="Project 6" />
+      </a>
+      <br />
+      <a href="https://github.com/MohamedAbdelrehem/project6">Project 6</a>
+    </td>
+  </tr>
+</table>
+-->
 
 
