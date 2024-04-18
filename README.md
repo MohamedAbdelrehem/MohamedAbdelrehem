@@ -1,5 +1,5 @@
 <div align="center">
-	<img src = "https://github.com/MohamedAbdelrehem/MohamedAbdelrehem/assets/92957503/30f9ffb4-99b0-4231-833d-6f316506e043" > 
+	<img src = "./images/Welcome.gif" > 
 </div>
 
 <p align="right">✨ Visitors: <br>   <img src="https://komarev.com/ghpvc/?username=MohamedAbdelrehem" alt="MohamedAbdelrehem" /> </p>
