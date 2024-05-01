@@ -10,7 +10,7 @@
 <img width="30%" align="right" alt="Github" src="./images/coding.gif" />
 
 
-### Hey there! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
+# Hey there! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
 I'm Mohamed Abdelrehem Ali, a passionate Computer Engineering student who is passionate about Embedded Software.
 
 🎓 Education:
