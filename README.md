@@ -138,7 +138,8 @@ I'm Mohamed Abdelrehem Ali, a passionate Computer Engineering student who is pas
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </div>
 
-<!---
+
+<!--
 <h2 align="left">🚀 Projects</h2>
 
 <table align="center">
@@ -189,6 +190,28 @@ I'm Mohamed Abdelrehem Ali, a passionate Computer Engineering student who is pas
     </td>
   </tr>
 </table>
--->
 
 
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| [![Project 1 Image](https://via.placeholder.com/150)](https://github.com/your-username/project1) | A brief description of Project 1. |
+| [![Project 2 Image](https://via.placeholder.com/150)](https://github.com/your-username/project2) | A brief description of Project 2, highlighting its key features and functionalities. |
+| [![Project 3 Image](https://via.placeholder.com/150)](https://github.com/your-username/project3) |  This project focuses on... (add a short description)|
+<h2 align="left">🚀 Projects</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MohamedAbdelrehem/project1">
+        <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/image-processing-projects-ideas/image_69273349441655281868612.png" alt="Project 1" />
+      </a>
+      <br />
+      <a href="https://github.com/MohamedAbdelrehem/project1">
+	      "Smart logistic sysytem  helpasdnaskndlkascasdasdasdsuiabncoklsdmzxlkcmujsfkzdvncmoslkDBvcuhznsodlkcnkjkdfxbijdcnoslkd"</a>
+    </td>
+    <!-- Add more columns for additional projects 
+  </tr>
+</table>
+--->
