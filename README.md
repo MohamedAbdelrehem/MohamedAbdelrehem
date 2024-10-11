@@ -11,10 +11,10 @@
 
 
 # Hey there! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
-I'm Mohamed Abdelrehem Ali, a passionate Computer Engineering student who is passionate about Embedded Software.
+I'm Mohamed Abdelrehem Ali, a Computer Engineer specializing in testing and smart solutions using embedded systems and IoT. Passionate about creating innovative solutions that integrate cutting-edge technologies to solve real-world problems
 
 🎓 Education:
-- Currently studying Computer Engineering at Minya University with an excellent academic record.
+- Graduated From Computer Engineering with an excellent academic record and 4th on my Class.
 - Graduated from IGCSE (International General Certificate of Secondary Education) School
 
 💻 Experience:
