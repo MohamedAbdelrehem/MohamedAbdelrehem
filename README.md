@@ -18,6 +18,7 @@ I'm Mohamed Abdelrehem Ali, a Computer Engineer specializing in testing and smar
 - Graduated from IGCSE (International General Certificate of Secondary Education) School
 
 💻 Experience:
+- Working As Software Tester in Giza Systems
 - Siemens Automotive Training Program: Worked with TIVA-C on Code Composer Studio, gained insights into automotive market, coding guidelines, and AUTOSAR module development.
 - ITI Embedded System: Delved into C programming, embedded software, real-time operating systems, and automotive bus technologies.
 - Embedded Systems courses: Completed various online courses covering microcontroller input/output and multi-threaded interfacing.
