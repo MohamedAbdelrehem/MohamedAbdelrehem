@@ -1,218 +1,104 @@
 <div align="center">
-	<img src = "./images/Welcome.gif" > 
+  <img src="./images/Welcome.gif" width="400px">
 </div>
 
-<p align="right">✨ Visitors: <br>   <img src="https://komarev.com/ghpvc/?username=MohamedAbdelrehem" alt="MohamedAbdelrehem" /> </p>
+<h1 align="center">Hi there 👋 I'm Mohamed Abdelrehem</h1>
+<h3 align="center">ISTQB-Certified Software Test Engineer | Automation Specialist | Solution Architecture Enthusiast</h3>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<img width="30%" align="right" alt="Github" src="./images/coding.gif" />
-
-
-# Hey there! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
-I'm Mohamed Abdelrehem Ali, a Computer Engineer specializing in testing and smart solutions using embedded systems and IoT. Passionate about creating innovative solutions that integrate cutting-edge technologies to solve real-world problems
-
-🎓 Education:
-- Graduated From Computer Engineering with an excellent academic record and 4th on my Class.
-- Graduated from IGCSE (International General Certificate of Secondary Education) School
-
-💻 Experience:
-- Working As Software Tester in Giza Systems
-- Siemens Automotive Training Program: Worked with TIVA-C on Code Composer Studio, gained insights into automotive market, coding guidelines, and AUTOSAR module development.
-- ITI Embedded System: Delved into C programming, embedded software, real-time operating systems, and automotive bus technologies.
-- Embedded Systems courses: Completed various online courses covering microcontroller input/output and multi-threaded interfacing.
-- Embedded Systems internship at Embedia: Gained practical experience in firmware development.
-- Syntax And Structure of C, Advanced C Programming courses by Microchip University.
-- ALX SE Program: Received extensive training in various technical areas including system engineering, DevOps, and advanced programming.
-
-🚀 Projects & Internships:
-- Involved in projects spanning embedded systems, IoT applications, and robotics, with hands-on experience in Embedded C programming, microcontroller interfacing, and real-time operating systems.
-- Internship at Tektech: Contributed to developing a programmable kit for building STEAM projects.
-- Participated in hackathons like Ericsson Together Apart, showcasing skills in AR, IoT, and deep learning.
-
-🏆 Achievements & Certifications:
-- Silver Medal in Huawei ICT Competition in Network track.
-- Certified in Embedded Systems, Advanced C Programming, IoT, Cybersecurity, and also various Huawei certifications (HCIA bigdata/routing and switching/.
-
-🌟 Soft Skills & Community Involvement:
-- Active Embedded Vice at IEEE, member in GDSC, and Huawei communities, contributing to knowledge sharing and collaboration.
-
-⚡ Passions:
-- Apart from coding, I enjoy rowing and staying updated on the latest technological advancements.
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-abdelrehem/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:mohamedabdelrehem32@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://wa.me/+201011929211">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
-
-
-###
-
-<h2 align="left">Connects and profiles</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-abdelrehem/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mohamedabdelrehem32@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/+201011929211" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/mohamedabdelreh2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MohamedAbdelrehem&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedAbdelrehem&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3"  />
-</div>
+### 🛠️ Technical Arsenal
 
+**Testing Expertise:**  
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/REST_Assured-009688?logo=rest&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Appium-0066FF?logo=appium&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/SHAFT_Engine-000000?logo=gear&logoColor=white" height="25">
 
+**Development:**  
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white" height="25">
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2 align="left">✍️ Quotes I admire</h2>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
-</div>
+**CI/CD & DevOps:**  
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white" height="25">
 
+---
 
-<!--
-<h2 align="left">🚀 Projects</h2>
+### 🚀 Professional Journey
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MohamedAbdelrehem/project1">
-        <img src="https://via.placeholder.com/150" alt="Project 1" />
-      </a>
-      <br />
-      <a href="https://github.com/MohamedAbdelrehem/project1">Project 1</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MohamedAbdelrehem/project2">
-        <img src="https://via.placeholder.com/150" alt="Project 2" />
-      </a>
-      <br />
-      <a href="https://github.com/MohamedAbdelrehem/project2">Project 2</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MohamedAbdelrehem/project3">
-        <img src="https://via.placeholder.com/150" alt="Project 3" />
-      </a>
-      <br />
-      <a href="https://github.com/MohamedAbdelrehem/project3">Project 3</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MohamedAbdelrehem/project4">
-        <img src="https://via.placeholder.com/150" alt="Project 4" />
-      </a>
-      <br />
-      <a href="https://github.com/MohamedAbdelrehem/project4">Project 4</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MohamedAbdelrehem/project5">
-        <img src="https://via.placeholder.com/150" alt="Project 5" />
-      </a>
-      <br />
-      <a href="https://github.com/MohamedAbdelrehem/project5">Project 5</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MohamedAbdelrehem/project6">
-        <img src="https://via.placeholder.com/150" alt="Project 6" />
-      </a>
-      <br />
-      <a href="https://github.com/MohamedAbdelrehem/project6">Project 6</a>
-    </td>
-  </tr>
-</table>
+#### **Software Test Engineer** @ Giza Systems (HEADWAY Program)  
+`2023 - Present`  
+- Led end-to-end testing for Jeddah's digital scrap management platform (Web/Mobile/ERP)
+- Architected test automation framework using Selenium/TestNG with Page Object Model
+- Implemented CI/CD pipelines for test automation scripts using GitHub Actions
+- Conducted performance testing achieving 98.4% system uptime with JMeter
 
+#### **Test Automation Engineer** @ DEPI Software Testing  
+`2022 - 2023`  
+- Automated 85% of regression test cases using Selenium WebDriver
+- Reduced API testing time by 40% through Postman automation
 
-## 🚀 Projects
+#### **Flutter Developer Intern** @ Life on Mars  
+`2022`  
+- Built cross-platform app with Firebase integration
+- Implemented state management using BLoC pattern
 
-| Project | Description |
-|---|---|
-| [![Project 1 Image](https://via.placeholder.com/150)](https://github.com/your-username/project1) | A brief description of Project 1. |
-| [![Project 2 Image](https://via.placeholder.com/150)](https://github.com/your-username/project2) | A brief description of Project 2, highlighting its key features and functionalities. |
-| [![Project 3 Image](https://via.placeholder.com/150)](https://github.com/your-username/project3) |  This project focuses on... (add a short description)|
-<h2 align="left">🚀 Projects</h2>
+---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MohamedAbdelrehem/project1">
-        <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/image-processing-projects-ideas/image_69273349441655281868612.png" alt="Project 1" />
-      </a>
-      <br />
-      <a href="https://github.com/MohamedAbdelrehem/project1">
-	      "Smart logistic sysytem  helpasdnaskndlkascasdasdasdsuiabncoklsdmzxlkcmujsfkzdvncmoslkDBvcuhznsodlkcnkjkdfxbijdcnoslkd"</a>
-    </td>
-    <!-- Add more columns for additional projects 
-  </tr>
-</table>
---->
+### 🏆 Notable Achievements
+
+- **Creator of Azure-Do**
+- **ISTQB CTFL Certified** (Score: **85%**) - #241119008
+- **ISTQB CT-MAT Certified** (Score: **95%**) - #250312021
+- **GITEX 2024** - Represented Egypt in Arab IoT & AI Challenge
+- **Top 6** - Hult Prize Egypt 2024
+- **Silver Medalist** - Huawei ICT Competition 2023 (Network Track)
+
+---
+
+### 🎓 Education & Projects
+
+**B.Sc. Computer Engineering** @ Minia University <br>
+`GPA: 84.5% (4th Rank)`  
+`2024 Graduate | (SLS) Smart Special Needs & Logistic System Project (97.6/100)`
+
+**IGCSE**  
+`Dar El Tarbiah International School | Score: 98.6%`  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbdelrehem&theme=tokyonight">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelrehem&layout=compact&theme=dracula">
+</p>
+
+---
+
+### 💡 Philosophy
+*"Quality is never an accident; it is always the result of intelligent effort."* - John Ruskin
