@@ -34,9 +34,9 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white" height="25">
 
 **CI/CD & DevOps:**  
@@ -70,10 +70,9 @@
 
 ### 🏆 Key Achievements
 
-- **Creator of Azure-Do**
 - **ISTQB CTFL Certified** (Score: **85%**) - #241119008
 - **ISTQB CT-MAT Certified** (Score: **95%**) - #250312021
-- **GITEX 2024** - Represented Egypt in Arab IoT & AI Challenge
+- **GITEX 2024 Dubai** - Represented Egypt in the Arab IoT & AI Challenge
 - **Top 6** - Hult Prize Egypt 2024
 - **Silver Medalist** - Huawei ICT Competition 2023 (Network Track)
 
@@ -82,7 +81,7 @@
 ### 🚀 Featured Projects
 
 **Azure-Do Automation Tool**  
-`2025`  
+`2024-2025`  
 <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20">
