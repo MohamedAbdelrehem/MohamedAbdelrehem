@@ -68,7 +68,7 @@
 
 ---
 
-### 🏆 Notable Achievements
+### 🏆 Key Achievements
 
 - **Creator of Azure-Do**
 - **ISTQB CTFL Certified** (Score: **85%**) - #241119008
@@ -76,6 +76,28 @@
 - **GITEX 2024** - Represented Egypt in Arab IoT & AI Challenge
 - **Top 6** - Hult Prize Egypt 2024
 - **Silver Medalist** - Huawei ICT Competition 2023 (Network Track)
+
+---
+
+### 🚀 Featured Projects
+
+**Azure-Do Automation Tool**  
+`2025`  
+<img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" height="20">
+
+  
+**Smart Special Needs & Logistic System (SLS)**  
+`2023-2024 | Team Lead | Grade: 97.6/100`  
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/IoT-FF6F00?logo=iot&logoColor=white" height="20">  
+- Integrated AR maintenance visualizations & AI-powered assistant (90% support reduction)  
+- Real-time vehicle monitoring system with 82% data efficiency boost  
+- Multi-platform solution: Embedded hardware + Flutter mobile app  
 
 ---
 
